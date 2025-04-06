@@ -1,5 +1,5 @@
 sqlalchemy
 flasgger
-psycopg2
+psycopg2-binary
 flask-cors
 flask_sqlalchemy
